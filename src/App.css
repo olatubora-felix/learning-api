@@ -1,0 +1,8 @@
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 200px;
+  grid-gap: 20px;
+}
+.error {
+  color: red;
+}
